@@ -1,6 +1,6 @@
 # Human Connectome Project Preprocess Pipeline
 <p align="center">
-  <img src="./figures/HCP_logo.png" height=60% width=60%>
+  <a href="https://www.humanconnectome.org/"><img src="./figures/HCP_logo.png" height=60% width=60%></a>
 </p>
 
 The HCP Pipelines product is a set of tools (primarily, but not exclusively, Python3) for processing MRI images for the [Human Connectome Project](https://www.humanconnectome.org/) using [Nipy](https://nipy.org/). Among other things, these tools implement the Minimal Preprocessing Pipeline (MPP)
